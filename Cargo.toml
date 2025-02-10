@@ -1,0 +1,9 @@
+[package]
+name = "logthis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+colored = "3.0.0"
+lazy_static = "1.5.0"
