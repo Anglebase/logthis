@@ -2,6 +2,9 @@
 name = "logthis"
 version = "0.1.0"
 edition = "2021"
+description = "A simple, beautiful, and easy-to-use logging library for Rust."
+repository = "https://github.com/Anglebase/logthis.git"
+license = "MIT"
 
 [dependencies]
 chrono = "0.4.39"
